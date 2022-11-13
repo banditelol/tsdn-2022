@@ -3,6 +3,8 @@ tsdn-2022
 
 repository for 2022 TSDN
 
+- [Logbook](references/00_logbook.md)
+
 Project Organization
 ------------
 
